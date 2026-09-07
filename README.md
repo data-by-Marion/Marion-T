@@ -1,5 +1,5 @@
 Hi there
-About Me
+
 
 I'm a data analyst with a background in Development Economics and hands-on experience in financial reconciliation, credit risk monitoring, and reporting from Uganda's banking sector. I enjoy taking messy, high-volume data and turning it into clean, structured insight — whether that's reconciling digital financial transactions or building a dashboard that helps a team make a faster decision.
 
